@@ -27,10 +27,10 @@ for this purpose.
 
 
 ## OUTPUT:
-![image](https://github.com/Rithigasri/WDM_EXP9/assets/93427256/12a869f4-1ae7-4f99-aa62-d4dc5f57c789)
-![image](https://github.com/Rithigasri/WDM_EXP9/assets/93427256/f0a6f9a9-5000-424d-b42c-2661ad97fc1c)
-![image](https://github.com/Rithigasri/WDM_EXP9/assets/93427256/efa23b8a-e9fd-41cb-ac62-7744260907fc)
-![image](https://github.com/Rithigasri/WDM_EXP9/assets/93427256/db96ca88-18ee-48a7-84df-c0fe22f916bb)
+![image](https://github.com/Rithigasri/WDM_EXP9/assets/93427256/59ccaeac-e6dc-499d-b58d-36736687fe01)
+![image](https://github.com/Rithigasri/WDM_EXP9/assets/93427256/98a620da-34c0-4820-8f8b-d48f6c21ff82)
+![image](https://github.com/Rithigasri/WDM_EXP9/assets/93427256/5d142e8c-e002-4d6e-8914-c6968343690e)
+![image](https://github.com/Rithigasri/WDM_EXP9/assets/93427256/d2914faf-b62e-4379-a2f1-b5225a337ee7)
 
 ## RESULT:
 Thus, the preprocessing technique on Twitter Data using Rapidminer is implemented successfully.
